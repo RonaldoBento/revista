@@ -4,8 +4,8 @@
   
 <br><img src="logo.png" alt="logo condado em png"><br>
 
-<a href="https://condadobraveheart.com/" target="_blank" rel="external" 
-title="Condado é uma comunidade"><strong>Condado é uma comunidade</strong></a><p>
+<p><a href="https://condadobraveheart.com/" target="_blank" rel="external" 
+title="Condado Braveheart"><strong>Condado Braveheart</strong></a>
 O Condado é uma comunidade com milhares de membros, voltada para apoiar o desenvolvimento de jogos independentes e de todas as outras criações artísticas envolvidas em sua criação, como escrita, programação, música e arte digital.
 Fundada em 2009, a comunidade evoluiu e se transformou ao longo dos anos, e hoje conta com um fórum e portal de notícias, um servidor no Discord, um canal no Youtube e uma revista focada no desenvolvimento de jogos - a Make The Game.</p>
 
